@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.storage.path",
+  "type": "java.lang.String",
+  "description": "Define la ruta del repositorio de archivos 'app.storage.path'"
+}]}
